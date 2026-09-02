@@ -1,4 +1,4 @@
-# Advisor OS
+# AdvisorOS
 
 **An AI Chief of Staff for Financial Advisors**
 
@@ -12,11 +12,11 @@ The objective is not to replace the financial advisor. It is to give the advisor
 
 Financial advisors work across fragmented systems containing portfolio data, financial plans, client notes, service requests, market information, and compliance requirements. Important signals can be difficult to identify consistently across hundreds of client relationships.
 
-Most advisor technology is reactive: it stores information and waits for the advisor to search for it. Advisor OS is designed around a proactive model—continuously evaluating relevant information and producing a prioritized view of what may require attention.
+Most advisor technology is reactive: it stores information and waits for the advisor to search for it. AdvisorOS is designed around a proactive model—continuously evaluating relevant information and producing a prioritized view of what may require attention.
 
 ## Product Vision
 
-Advisor OS is intended to function as an intelligence and workflow layer across the advisor's existing technology stack.
+AdvisorOS is intended to function as an intelligence and workflow layer across the advisor's existing technology stack.
 
 Each review cycle would generate a concise briefing containing:
 
@@ -69,7 +69,7 @@ Connect portfolio, planning, tax, relationship, and compliance information so th
 
 ## Design Principles
 
-Advisor OS is guided by several core principles:
+AdvisorOS is guided by several core principles:
 
 1. **Advisor in control** — The system supports professional judgment; it does not autonomously provide or implement financial advice.
 2. **Evidence before assertion** — Material findings should be traceable to verified source data.
@@ -94,7 +94,7 @@ The project will expand only after the underlying analysis, controls, and adviso
 
 ## Project Status
 
-Advisor OS is currently an independent, early-stage research and development project. The current priorities are:
+AdvisorOS is currently an independent, early-stage research and development project. The current priorities are:
 
 - Defining the product requirements and system boundaries
 - Building a controlled proof of concept with synthetic or non-sensitive data
@@ -112,7 +112,7 @@ It does not disclose confidential client information, employer systems or proces
 
 ## Disclaimer
 
-Advisor OS is a technology research project and is not a registered investment adviser, broker-dealer, bank, or financial-planning firm. Nothing in this repository constitutes investment, tax, legal, or financial advice. Any future system output would require review by appropriately qualified professionals and would remain subject to applicable laws, regulations, firm policies, and supervisory requirements.
+AdvisorOS is a technology research project and is not a registered investment adviser, broker-dealer, bank, or financial-planning firm. Nothing in this repository constitutes investment, tax, legal, or financial advice. Any future system output would require review by appropriately qualified professionals and would remain subject to applicable laws, regulations, firm policies, and supervisory requirements.
 
 This project is independently developed and is not affiliated with, endorsed by, or representative of any current or former employer.
 
@@ -124,4 +124,4 @@ For inquiries, open a GitHub issue or contact the repository owner through the c
 
 ---
 
-**Advisor OS:** helping financial advisors move from reactive information management to proactive, evidence-based client intelligence.
+**AdvisorOS:** helping financial advisors move from reactive information management to proactive, evidence-based client intelligence.
